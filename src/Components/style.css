@@ -1,0 +1,5 @@
+
+.ai-suggestion-underline {
+  text-decoration: underline dotted red;
+  cursor: help;
+}
